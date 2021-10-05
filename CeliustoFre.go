@@ -15,7 +15,7 @@ func main(){
    	if err != nil{
 	   log.Fatal(err)
    	}
-	fmt.Println(Fer,"°F12")
+	fmt.Println(Fer,"°F1212")
 }
 }
 
